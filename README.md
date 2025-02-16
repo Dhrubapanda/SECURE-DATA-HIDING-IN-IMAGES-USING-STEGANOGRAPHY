@@ -23,8 +23,8 @@ Cryptography (future scope) – Additional encryption layer
 
 Installation & Setup
 
-Link : https://github.com/Dhrubapanda/SECURE-DATA-HIDING-IN-IMAGES-USING-STEGANOGRAPHY
-
+Project Directory : https://github.com/Dhrubapanda/SECURE-DATA-HIDING-IN-IMAGES-USING-STEGANOGRAPHY/tree/main
+Project Code : stego.py
 Install the required dependencies: pip install opencv-python numpy
 Run the program: python steganography.py
 
@@ -38,9 +38,8 @@ If the password is incorrect, access will be denied.
 
 Output
 
-Encryption: The program hides the message inside an AI-generated image.
-Decryption: The message is retrieved only if the correct password is provided.
-
+Encryption: The program hides the message inside an AI-generated image. ( Dnp.png )
+Decryption: The message is retrieved only if the correct password is provided. ( encryptedImage.jpg )
 
 Future Scope
 
