@@ -23,7 +23,8 @@ Cryptography (future scope) – Additional encryption layer
 
 Installation & Setup
 
-Navigate to the project directory: cd secure-data-steganography
+Link : https://github.com/Dhrubapanda/SECURE-DATA-HIDING-IN-IMAGES-USING-STEGANOGRAPHY
+
 Install the required dependencies: pip install opencv-python numpy
 Run the program: python steganography.py
 
